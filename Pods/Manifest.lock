@@ -1,0 +1,39 @@
+PODS:
+  - AEXML (3.0.0)
+  - Alamofire (3.5.0)
+  - CocoaAsyncSocket (7.5.0):
+    - CocoaAsyncSocket/GCD (= 7.5.0)
+  - CocoaAsyncSocket/GCD (7.5.0)
+  - Fuzi (0.4.0)
+  - StringExtensionHTML (0.1.3)
+  - SWXMLHash (2.4.0)
+
+DEPENDENCIES:
+  - AEXML
+  - Alamofire (from `https://github.com/Alamofire/Alamofire.git`, tag `3.5.0`)
+  - CocoaAsyncSocket
+  - Fuzi (~> 0.4.0)
+  - StringExtensionHTML
+  - SWXMLHash
+
+EXTERNAL SOURCES:
+  Alamofire:
+    :git: https://github.com/Alamofire/Alamofire.git
+    :tag: 3.5.0
+
+CHECKOUT OPTIONS:
+  Alamofire:
+    :git: https://github.com/Alamofire/Alamofire.git
+    :tag: 3.5.0
+
+SPEC CHECKSUMS:
+  AEXML: 716fb0a8decba4a3517324a71fee3685b30233d2
+  Alamofire: b70a7352335f8ea5babd0a923eb7e8eacc67b877
+  CocoaAsyncSocket: 3baeb1ddd969f81cf9fca81053ae49ef2d1cbbfa
+  Fuzi: 874bf82e6d14d7310494af695ffc2a894d88e67e
+  StringExtensionHTML: a56bc49c4f11e7a3893b68aff7f7786eaa11d345
+  SWXMLHash: 507397103325f140863d09040c04ae14a49a16cb
+
+PODFILE CHECKSUM: 2ef7f898178f6d236702002417e87319b550a317
+
+COCOAPODS: 1.1.1
